@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**abhaychokshi/AbhayChokshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Welcome  👋 👋🤓<br> <br> 
+  
+I'm Abhay Chokshi<br>a Documentarian, leader & business analyst</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on improving my 
+- 🌱 I’m currently learning handling complex business projects 
+- 👯 I’m looking to collaborate on challenging documentation projects
+- 🤔 I’m looking for help with making my git repo awesome
+- 💬 Ask me about Documentation, Leadership, Agile and Business Analysis
+- 📫 How to reach me: abhay.chokshi@gmail.com
+- 😄 Pronouns: Passionate, Dedicated, Social, Creative
+- ⚡ Fun fact: I have published a poetry collection in Hindi
 -->
