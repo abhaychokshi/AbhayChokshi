@@ -1,7 +1,7 @@
 
 <h3>Welcome  👋 👋🤓<br> <br> 
   
-I'm Abhay Chokshi<br>a Documentarian, leader & business analyst</h3>
+I'm Abhay Chokshi<br>a documentarian, leader & business analyst</h3>
 
 
 - 🔭 I’m currently working on improving my leadership skills
