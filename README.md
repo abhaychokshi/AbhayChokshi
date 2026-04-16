@@ -8,7 +8,7 @@ About me · Wikidata
 
     AI Product Discovery → PRDs, roadmaps, and prioritization for LLM-powered products
     Stakeholder workshops, rapid prototyping, production delivery
-    A
+
 
 🏆 Key Achievement
 
