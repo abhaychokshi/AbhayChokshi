@@ -1,15 +1,21 @@
 
-<h3>Welcome  👋 👋🤓<br> <br> 
-  
-I'm Abhay Chokshi<br>a documentarian & product leader </h3>
+AI Product Manager with 18+ years of experience in Software
 
+Original a developer and tech writer, I now focus on roles where impact scales: turning ambiguous business goals into production-ready AI solutions.
 
-- 🔭 I’m currently working on improving my leadership skills
-- 🌱 I’m currently learning handling complex business projects 
-- 👯 I’m looking to collaborate on challenging documentation projects
-- 🤔 I’m looking for help with making my git repo awesome
-- 💬 Ask me about Product management, Documentation, Leadership, Agile and Business Analysis
-- 📫 How to reach me: abhay.chokshi@gmail.com
-- 😄 Pronouns: Passionate, Dedicated, Social, Creative
-- ⚡ Fun fact: I have published a poetry collection in Hindi!
+About me · Wikidata
+🚀 What I Do
 
+    AI Product Discovery → PRDs, roadmaps, and prioritization for LLM-powered products
+    Stakeholder workshops, rapid prototyping, production delivery
+    A
+
+🏆 Key Achievement
+
+Coming...  My agent will be live soon!
+
+    n8n for PMs — Automation cheat sheet for product managers
+
+🛠 Tech Stack
+
+Claude Python Flutter React Airtable n8n Make
